@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michellethemaker
 - 👀 I enjoy turning tech around me into retro, smarter versions of themselves
 - 🌱 Future project on the horizon: creating an AI-assisted robot pet
-- 💞️ Open to collaborate on anything involving wireless communication, arduinos, or whatever sounds cool
+- 💞️ Open to collaborate on anything involving edge devices, arduinos, or whatever sounds cool
 - 📫 How to reach me: limmm.michelle@gmail.com
 
 <!---
